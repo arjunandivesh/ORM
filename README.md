@@ -60,7 +60,7 @@ class productAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![alt text](<Screenshot 2025-11-26 211726-1.png>)
+![alt text](<diveshwebexp1/Screenshot 2025-11-26 211726.png>)
 
 ## RESULT
 Thus the program for creating E-commerce website database using ORM hass been executed successfully
